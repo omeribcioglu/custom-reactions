@@ -1,0 +1,8 @@
+{
+  "name": "custom-reactions",
+  "version": "0.1",
+  "about": "Adds a multi-level like/dislike reaction system to Discourse.",
+  "authors": ["Ömer"],
+  "url": "https://github.com/omeribcioglu/custom-reactions",
+  "required_version": "2.7.0"
+}
